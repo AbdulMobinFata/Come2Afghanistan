@@ -3,7 +3,7 @@
 }
 
 .whatsapp-button {
-  position: fixed;
+  position: absolute;
   bottom: 3rem;
   right: 2rem;
   background-color: #25d366;
